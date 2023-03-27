@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/MultiDeviceSample.dir/MultiDeviceSample.c.o CMakeFiles/libExampleConnection.dir/ExampleConnection.c.o  -o MultiDeviceSample  -Wl,-rpath,/home/colin-wsl/leap-motion/LeapSDK/lib/x64 /home/colin-wsl/leap-motion/LeapSDK/lib/x64/LeapC.dll -lpthread 

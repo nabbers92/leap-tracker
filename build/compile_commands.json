@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/MultiDeviceSample.dir/MultiDeviceSample.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/MultiDeviceSample.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/MultiDeviceSample.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/InterpolationSample.dir/InterpolationSample.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/InterpolationSample.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/InterpolationSample.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/PollingSample.dir/PollingSample.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/PollingSample.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/PollingSample.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/ImageSample.dir/ImageSample.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/ImageSample.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/ImageSample.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/CallbackSample.dir/CallbackSample.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/CallbackSample.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/CallbackSample.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -I/home/colin-wsl/leap-motion/LeapSDK/samples -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/libExampleConnection.dir/ExampleConnection.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/ExampleConnection.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/ExampleConnection.c"
+},
+{
+  "directory": "/home/colin-wsl/leap-motion/build",
+  "command": "/usr/bin/gcc  -isystem /home/colin-wsl/leap-motion/LeapSDK/include  -g   -o CMakeFiles/leapc_example.dir/leapc_main.c.o   -c /home/colin-wsl/leap-motion/LeapSDK/samples/leapc_main.c",
+  "file": "/home/colin-wsl/leap-motion/LeapSDK/samples/leapc_main.c"
+}
+]

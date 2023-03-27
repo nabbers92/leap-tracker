@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/PollingSample.dir/PollingSample.c.o CMakeFiles/libExampleConnection.dir/ExampleConnection.c.o  -o PollingSample  -Wl,-rpath,/home/colin-wsl/leap-motion/LeapSDK/lib/x64 /home/colin-wsl/leap-motion/LeapSDK/lib/x64/LeapC.dll -lpthread 

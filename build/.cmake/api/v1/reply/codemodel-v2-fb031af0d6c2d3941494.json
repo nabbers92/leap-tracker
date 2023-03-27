@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leapc_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CallbackSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CallbackSample-Debug-db36e2cddfc09809c042.json",
+					"name" : "CallbackSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageSample-Debug-5c3c910b2fa1d8d89da4.json",
+					"name" : "ImageSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InterpolationSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InterpolationSample-Debug-f1c553d4e7beb5c745d0.json",
+					"name" : "InterpolationSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiDeviceSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiDeviceSample-Debug-b2639835211695939112.json",
+					"name" : "MultiDeviceSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PollingSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PollingSample-Debug-918b94370eb593de0a22.json",
+					"name" : "PollingSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leapc_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leapc_example-Debug-0eab24e12177ca8292d7.json",
+					"name" : "leapc_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libExampleConnection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libExampleConnection-Debug-3d120f374ebd8c911d89.json",
+					"name" : "libExampleConnection",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/colin-wsl/leap-motion/build",
+		"source" : "/home/colin-wsl/leap-motion/LeapSDK/samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

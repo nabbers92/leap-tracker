@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/leapc_example.dir/leapc_main.c.o  -o leapc_example  -Wl,-rpath,/home/colin-wsl/leap-motion/LeapSDK/lib/x64 /home/colin-wsl/leap-motion/LeapSDK/lib/x64/LeapC.dll 

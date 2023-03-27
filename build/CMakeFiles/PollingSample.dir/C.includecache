@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/colin-wsl/leap-motion/LeapSDK/include/LeapC.h
+stdint.h
+-
+stdbool.h
+-
+
+/home/colin-wsl/leap-motion/LeapSDK/samples/ExampleConnection.h
+LeapC.h
+/home/colin-wsl/leap-motion/LeapSDK/samples/LeapC.h
+
+/home/colin-wsl/leap-motion/LeapSDK/samples/PollingSample.c
+stdio.h
+-
+stdlib.h
+-
+Windows.h
+-
+unistd.h
+-
+LeapC.h
+/home/colin-wsl/leap-motion/LeapSDK/samples/LeapC.h
+ExampleConnection.h
+/home/colin-wsl/leap-motion/LeapSDK/samples/ExampleConnection.h
+
